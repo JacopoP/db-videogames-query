@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/mssqlserver-db_videogame.txt
+/singola tabella.txt
+/query con join.txt
+/query con group by.txt
